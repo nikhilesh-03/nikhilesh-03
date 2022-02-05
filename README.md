@@ -1,3 +1,3 @@
-- 👋 Hi, Iam Nikhilesh Vardhan Gupta , 3 star⭐ coder on codechef pursuing my Btech from Punjab Engineering College,Chandigarh.
+- 👋 Hi, Iam Nikhilesh Vardhan Gupta,pursuing my Btech from Punjab Engineering College,Chandigarh.
 - 👀 I’m interested in Competitive coding, hacking and building projects.
 - 📫 You can reach me through my linkedin account https://www.linkedin.com/in/nikhilesh-vardhan-gupta-aa72b5204 or  my instagram account https://www.instagram.com/nikhileshgupta_03?r=nametag
