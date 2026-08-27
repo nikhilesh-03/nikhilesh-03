@@ -19,7 +19,7 @@ Currently focused on strengthening my backend engineering skills through **Java,
 
 ### Languages
 
-`Java` • `C++` • `Golang` • `SQL` `HTML/CSS` • `JavaScript` • `TypeScript` • `React` •
+`Java` • `C++` • `Golang` • `SQL` `HTML/CSS` • `JavaScript` • `TypeScript` • `React`
 
 ### Backend
 
